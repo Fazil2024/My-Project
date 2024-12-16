@@ -1,2 +1,3 @@
 # My-Project
-This is an initial Repository
+This is my first repository
+Author : Fazlullah Amiry
